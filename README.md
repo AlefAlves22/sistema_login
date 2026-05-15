@@ -54,11 +54,11 @@ Então conectamos a máquina com outra.
 Teste de Conexão e Acesso à Rede
 Nesta fase, o objetivo foi tirar o site do "computador interno" e deixá-lo disponível para outras pessoas da mesma rede.
 
-Localizando o Caminho (IP): Foi usado o comando ipconfig para descobrir o "RG" do computador (IP: 10.10.147.164). Esse é o endereço que os outros dispositivos usam para encontrar o servidor.
+-  Foi usado o comando ipconfig para descobrir o "RG" do computador (IP: 10.10.147.164). Esse é o endereço que os outros dispositivos usam para encontrar o servidor.
 
-Site no Ar: Ao digitar o endereço no navegador, o sistema funcionou perfeitamente. O visual (estilo Hello Kitty) carregou sem erros, provando que a ponte entre a Máquina Virtual e o computador real está configurada corretamente.
+- Ao digitar o endereço no navegador, o sistema funcionou perfeitamente. O visual (estilo Hello Kitty) carregou sem erros, provando que a ponte entre a Máquina Virtual e o computador real está configurada corretamente.
 
-Teste de Segurança: Foi testado o envio de dados no formulário. Ao digitar o nome e a senha, o sistema recebe as informações e responde se o acesso está permitido ou bloqueado, confirmando que o "cérebro" do programa está funcionando.
+- Foi testado o envio de dados no formulário. Ao digitar o nome e a senha, o sistema recebe as informações e responde se o acesso está permitido ou bloqueado, confirmando que o "cérebro" do programa está funcionando.
 
 <img width="1202" height="581" alt="image" src="https://github.com/user-attachments/assets/556825b6-3245-440a-86aa-cbceada01e54" />
 
